@@ -1,0 +1,7 @@
+PATH=/usr/bin:/bin
+HOME=/root/CS551
+PROMPT=#
+alias listcontent="ls"
+alias la="ls -a"
+alias cao="echo 1 , cat"
+alias pls="(ls -a)"
